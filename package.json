@@ -1,0 +1,28 @@
+{
+  "name": "chtmlx",
+  "version": "0.0.0",
+  "description": "coffeescript version of htmlx module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undoZen/chtmlx.git"
+  },
+  "keywords": [
+    "react",
+    "coffeescript",
+    "jsx",
+    "cjsx"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/chtmlx/issues"
+  },
+  "homepage": "https://github.com/undoZen/chtmlx",
+  "dependencies": {
+    "coffee-react-transform": "^0.5.0"
+  }
+}
